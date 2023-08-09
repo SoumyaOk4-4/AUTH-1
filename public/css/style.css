@@ -1,0 +1,40 @@
+form {
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 10px;
+    background: #ffaaaa;
+    box-shadow: 10px 10px 15px red;
+}
+
+h1,
+h3 {
+    color: #db6a00;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+h1 {
+    box-shadow: 10px 10px 15px #62002c;
+    border: 1px solid;
+    padding: 10px;
+    background: #740034;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: aqua;
+}
+
+input {
+    padding: 2px;
+    margin: 3px;
+    color: #db6a00;
+}
+
+* {
+    background: rgb(0, 0, 0);
+}
